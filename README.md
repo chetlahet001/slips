@@ -1,5 +1,6 @@
 # SatoshiLabs Improvement Proposals
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6b0635db18c44b02bd9d6ea810cb85c5)](https://app.codacy.com/app/chetlahet001/slips?utm_source=github.com&utm_medium=referral&utm_content=chetlahet001/slips&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/satoshilabs/slips.svg?branch=master)](https://travis-ci.org/satoshilabs/slips)
 
 SatoshiLabs projects need a way how to document their technical decisions and features.
